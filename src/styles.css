@@ -191,7 +191,7 @@ html {
   content: '▋';
   animation: pulse 1.5s ease-in-out infinite;
   margin-left: 2px;
-  color: #f97316;
+  color: #57B0DE;
   display: inline-block;
   transform-origin: center;
 }
