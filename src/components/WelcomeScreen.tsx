@@ -15,7 +15,7 @@ export const WelcomeScreen = ({
 }: WelcomeScreenProps) => (
   <div className="flex items-center justify-center flex-1 px-4">
     <div className="w-full max-w-3xl mx-auto text-center">
-      <h1 className="mb-4 text-6xl font-bold text-transparent uppercase bg-gradient-to-r from-blue-500 to-red-600 bg-clip-text">
+      <h1 className="mb-4 text-6xl font-bold text-transparent uppercase bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text">
         <span className="text-white">TRD Chat Agent</span> Chat
       </h1>
       <p className="w-2/3 mx-auto mb-6 text-lg text-gray-400">
