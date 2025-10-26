@@ -1,7 +1,5 @@
 # TRD AI Chat
 
-![TRD Starter Preview](tanstack-starter-preview.jpg)
-
 A modern chat template built with TRD Chat Router and Claude AI integration features a clean and responsive interface.
 
 
@@ -36,13 +34,7 @@ A modern chat template built with TRD Chat Router and Claude AI integration feat
 - [State Management](#state-management)
 - [Learn More](#learn-more)
 
-## Deploy to Netlify
 
-Want to deploy immediately? Click this button
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/tanstack-template)
-
-Clicking this button will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
 ## Features
 
